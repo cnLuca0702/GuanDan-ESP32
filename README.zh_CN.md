@@ -72,8 +72,8 @@ source tools/activate-esp.sh
 ## 来源与许可
 
 基于 [FoloToy/ai-passport](https://github.com/FoloToy/ai-passport)，新增独立的掼蛋界面、
-按键状态机、分数保存、字体、测试和文档。代码遵循 [MIT 许可](LICENSE)，保留上游版权声明。
-字体子集另有 SIL OFL 声明，位于 `assets/fonts/`；详见[素材来源与许可](assets/README.zh_CN.md)。
+按键状态机、分数保存、字体、测试和文档。应用代码遵循 [MIT 许可](LICENSE)，保留上游版权声明。
+字体子集及生成的字形数据另有 SIL OFL 声明，位于 `assets/fonts/`；详见[素材来源与许可](assets/README.zh_CN.md)。
 品牌和参考资料保留各自的使用限制。封面和重置示意图为本项目制作。
 
 [工程文档](docs/README.zh_CN.md) · [更新记录](docs/CHANGELOG.zh_CN.md) ·

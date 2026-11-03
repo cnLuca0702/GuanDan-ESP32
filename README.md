@@ -79,8 +79,8 @@ CI verifies builds but does not replace the tested release assets automatically.
 
 Based on [FoloToy/ai-passport](https://github.com/FoloToy/ai-passport), with a separate
 Guandan UI, input state machine, saved scores, fonts, tests, and documentation.
-Code is distributed under the [MIT license](LICENSE), retaining the upstream notice.
-Font subsets carry their own SIL OFL notices in `assets/fonts/`; see
+Application code is distributed under the [MIT license](LICENSE), retaining the upstream notice.
+Font subsets and their generated glyph data retain their SIL OFL notices in `assets/fonts/`; see
 [asset sources and licenses](assets/README.md). Brand/reference materials retain their
 separate restrictions. The cover and reset illustration were created for this project.
 
